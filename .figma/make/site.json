@@ -1,0 +1,10 @@
+{
+  "description": "Explore a cinematic digital essay that connects users with the spiritual and cultural heritage of sacred mountains through immersive storytelling and visuals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
