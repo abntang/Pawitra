@@ -11,3 +11,7 @@ logs/
 *.log
 .claude-replay.*
 .tmp-*
+# AI & Local Assistant Files
+AGENTS.md
+CLAUDE.md
+.mise.toml
